@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
+using static Microsoft.AspNetCore.Hosting.Internal.HostingApplication;
 
 namespace DualFramework
 {
@@ -18,17 +20,36 @@ namespace DualFramework
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
-            if (env.IsDevelopment())
-            {
-                app.UseDeveloperExceptionPage();
-            }
-
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World!");
+                context.Response.ContentType = "text/html";
+                context.Response.StatusCode = 200;
+
+#if NET462
+                await context.Response.WriteAsync
+                    ("<h1>ASP.Net Core on .NET Framework</h1>");
+#else
+                await context.Response.WriteAsync
+                    ("<h1>ASP.Net Core on .NET Core</h1>");
+#endif 
+
+                await context.Response.WriteAsync
+                    ("<h2>Server Time</h2>");
+                await context.Response.WriteAsync
+                    ($"Server time is {DateTime.Now}");
             });
+
+            //if (env.IsDevelopment())
+            //{
+            //    app.UseDeveloperExceptionPage();
+            //}
+
+            //app.Run(async (context) =>
+            //{
+            //    await context.Response.WriteAsync("Hello World!");
+            //});
         }
     }
 }

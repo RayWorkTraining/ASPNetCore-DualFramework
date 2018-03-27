@@ -1,0 +1,14 @@
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\win10-x64\hostpolicy.dll
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\win10-x64\hostfxr.dll
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\win10-x64\DualFramework.exe
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\win10-x64\DualFramework.deps.json
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\win10-x64\DualFramework.runtimeconfig.json
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\win10-x64\DualFramework.runtimeconfig.dev.json
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\win10-x64\DualFramework.dll
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\win10-x64\DualFramework.pdb
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\win10-x64\DualFramework.csprojResolveAssemblyReference.cache
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\win10-x64\DualFramework.csproj.CoreCompileInputs.cache
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\win10-x64\DualFramework.AssemblyInfoInputs.cache
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\win10-x64\DualFramework.AssemblyInfo.cs
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\win10-x64\DualFramework.dll
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\win10-x64\DualFramework.pdb

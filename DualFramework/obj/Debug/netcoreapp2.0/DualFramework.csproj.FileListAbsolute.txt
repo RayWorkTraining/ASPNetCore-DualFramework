@@ -1,0 +1,11 @@
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\DualFramework.deps.json
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\DualFramework.runtimeconfig.json
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\DualFramework.runtimeconfig.dev.json
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\DualFramework.dll
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\DualFramework.pdb
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\DualFramework.csprojResolveAssemblyReference.cache
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\DualFramework.csproj.CoreCompileInputs.cache
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\DualFramework.AssemblyInfoInputs.cache
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\DualFramework.AssemblyInfo.cs
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\DualFramework.dll
+c:\users\aspnetuser\documents\visual studio 2017\Projects\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\DualFramework.pdb
